@@ -12,4 +12,5 @@ YAHOO_URL = "https://www.yahoo.com"
 MICROSOFT_URL = "https://www.microsoft.com"
 BING_URL = "https://www.bing.com"
 DEMO_HOME_URL = "http://demoselenium.newtonicaonline.com/"
+NOVELSHIP_URL = "http://qainterview.pythonanywhere.com/"
 
